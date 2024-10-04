@@ -1,0 +1,46 @@
+.hero-section {
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 50px 80px;
+    background-color: #eef5ff;
+    border-radius: 20px;
+}
+
+.hero-image{
+    width: 50%;
+}
+.hero-image img {
+    max-width:80%;
+    height: auto;
+    mix-blend-mode: luminosity;
+    border-radius: 15px;
+}
+
+.hero-text {
+    max-width: 50%;
+    padding: 10px;
+}
+.hero-text>h1 {
+    max-width: 80%;
+}
+
+.hero-text>p {
+    max-width: 70%;
+}
+
+.signup-button {
+    background-color: #0A1D27;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.signup-button:hover {
+    background-color: #81a2b3;
+    color: #000000;
+}

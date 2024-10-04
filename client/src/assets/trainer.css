@@ -1,0 +1,53 @@
+.assigned-classes-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+/* Header */
+.assigned-classes-header {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+/* Loading and Error Messages */
+.error-message {
+    color: red;
+    font-weight: bold;
+}
+
+.success-message {
+    color: green;
+    font-weight: bold;
+}
+
+/* Table Styles */
+.assigned-classes-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.assigned-classes-table th,
+.assigned-classes-table td {
+    text-align: center;
+    padding: 12px;
+    border: 1px solid #ccc;
+}
+
+.assigned-classes-table th {
+    background-color: #0A1D27;
+    color: #ffffff;
+}
+
+.assigned-classes-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.assigned-classes-table tr:hover {
+    background-color: #e0e0e0;
+}

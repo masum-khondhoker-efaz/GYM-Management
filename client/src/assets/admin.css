@@ -1,0 +1,184 @@
+/* src/components/ManageTrainers.css */
+
+.manage-trainer-container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.manage-trainer-header {
+    text-align: center;
+    color: #001F3F;
+    margin-bottom: 20px;
+}
+
+.manage-trainer-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.manage-trainer-input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.manage-trainer-input:focus {
+    border-color: #3A6D8C;
+    outline: none;
+}
+
+.manage-trainer-button {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #6A9AB0;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100px;
+}
+
+.manage-trainer-button:hover {
+    background-color: #3A6D8C;
+}
+
+.manage-trainer-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.manage-trainer-table th,
+.manage-trainer-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+.manage-trainer-table th {
+    background-color: #f2f2f2;
+    color: #001F3F;
+}
+
+.manage-trainer-delete-button {
+    background-color: #FF4136;
+    width: 100px;
+    padding: 10px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.manage-trainer-delete-button:hover {
+    background-color: #C0392B;
+}
+
+
+/* src/components/ClassSchedule.css */
+
+.class-schedule-container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.class-schedule-header {
+    text-align: center;
+    color: #001F3F;
+    margin-bottom: 20px;
+}
+
+.class-schedule-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.class-schedule-table th,
+.class-schedule-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+.class-schedule-table th {
+    background-color: #f2f2f2;
+    color: #001F3F;
+}
+
+.error-message {
+    color: #FF4136;
+    text-align: center;
+}
+
+
+/* src/components/CreateClassSchedule.css */
+
+.create-class-schedule-container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.create-class-schedule-header {
+    text-align: center;
+    color: #001F3F;
+    margin-bottom: 20px;
+}
+
+.create-class-schedule-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-label {
+    margin-bottom: 15px;
+}
+
+.form-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-input:focus {
+    border-color: #3A6D8C;
+    outline: none;
+}
+
+.create-class-schedule-button {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #6A9AB0;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.create-class-schedule-button:hover {
+    background-color: #3A6D8C;
+}
+
+.error-message {
+    color: #FF4136;
+    text-align: center;
+}
+
+.success-message {
+    color: #28A745;
+    text-align: center;
+}
