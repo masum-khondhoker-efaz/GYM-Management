@@ -108,7 +108,11 @@ Defines the schedule for classes.
    nodemon app.js
 
 ## Live Hosting Link
-
+    Tried vercel first time.
+    Frontend(VERCEL)
+    https://gym-management-frontend-two.vercel.app/
+    Backend(VERCEL) ##Not Working
+    https://gym-management-iota.vercel.app/
 
 ## Testing Key Features
 
