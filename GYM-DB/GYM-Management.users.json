@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "66fcec3e112ddc2931313b04"
+  },
+  "name": "Admin",
+  "email": "admin@example.com",
+  "password": "$2b$10$G4X5i8.Gayzdeu7nM0SFKu3ZrBpalNhx7no63pNhb6NvaZRI0ILcS",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-10-02T06:46:22.164Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T06:46:22.164Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fd2b0256f30fc67b533808"
+  },
+  "name": "efaz",
+  "email": "efazkh@gmail.com",
+  "password": "$2b$10$rD9atzUDFRJyJDJCcb6FCevTK5vwKfd6hUfsYpqnr20BOi29E.97a",
+  "role": "trainee",
+  "createdAt": {
+    "$date": "2024-10-02T11:14:10.307Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T11:14:10.307Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fd422a42dda2db46f8c7be"
+  },
+  "name": "John",
+  "email": "john12@gmail.com",
+  "password": "$2b$10$y6K2wmqaxqpgYtlm24bf7ep9qHboHApizmat.q4/zds8TpZUwE1CW",
+  "role": "trainer",
+  "createdAt": {
+    "$date": "2024-10-02T12:52:58.484Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T03:49:38.734Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fe609346ae7a0f54d66d5b"
+  },
+  "name": "efaz",
+  "email": "efazkh1@gmail.com",
+  "password": "$2b$10$GO9jv1g8qy00PyLQz2D3neRw/PyRyWvXhccOoYYKZAtequMXs4u46",
+  "role": "trainee",
+  "createdAt": {
+    "$date": "2024-10-03T09:14:59.423Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-03T09:14:59.423Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ff49db96430da75c0949ae"
+  },
+  "name": "Paul",
+  "email": "efazkh21@gmail.com",
+  "password": "$2b$10$puzL6Pus9Xm3Guhj0SqM5eNTlntz0gmURC8TrMLQ9GWLv5GXfzY1.",
+  "role": "trainee",
+  "createdAt": {
+    "$date": "2024-10-04T01:50:19.899Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T01:50:19.899Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ff4f6c96430da75c0949b4"
+  },
+  "name": "Efaz",
+  "email": "efazkh221@gmail.com",
+  "password": "$2b$10$heF26rx6QFQyAn/0IcTIveQYTo.4OnP5rhs9.70.l9jwm0gw5VIQ6",
+  "role": "trainer",
+  "createdAt": {
+    "$date": "2024-10-04T02:14:04.430Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T02:14:04.430Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ff64303281e4bca2a0e6af"
+  },
+  "name": "asd",
+  "email": "asd@gmail.com",
+  "password": "$2b$10$Yy.2.jNbqBEnmg34ndESPucNSYT10fX2D/vvUHRvelZMP9RpINFoS",
+  "role": "trainer",
+  "createdAt": {
+    "$date": "2024-10-04T03:42:40.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T03:42:40.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fffbf4ae87aeb705f8e4ba"
+  },
+  "name": "John",
+  "email": "john650@gmail.com",
+  "password": "$2b$10$eI5vXOoqqPj0BrEs58TKOOk4O4Gulukw/HFvRbaupxwCPn6//0FXS",
+  "role": "trainer",
+  "createdAt": {
+    "$date": "2024-10-04T14:30:12.153Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T14:30:12.153Z"
+  }
+}]

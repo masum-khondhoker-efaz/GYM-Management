@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "66fe39bd3b481726a10aa753"
+  },
+  "classDate": "2024-10-07",
+  "startTime": "12:00 PM",
+  "trainerId": {
+    "$oid": "66fd422a42dda2db46f8c7be"
+  },
+  "trainees": [
+    {
+      "$oid": "66fd2b0256f30fc67b533808"
+    },
+    {
+      "$oid": "66ff49db96430da75c0949ae"
+    }
+  ],
+  "maxTrainees": "10",
+  "endTime": "02:00 PM",
+  "createdAt": {
+    "$date": "2024-10-03T06:29:17.635Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T17:05:40.597Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fe39f23b481726a10aa758"
+  },
+  "classDate": "2024-10-07",
+  "startTime": "09:00 AM",
+  "trainerId": {
+    "$oid": "66fd422a42dda2db46f8c7be"
+  },
+  "trainees": [
+    {
+      "$oid": "66fd2b0256f30fc67b533808"
+    }
+  ],
+  "maxTrainees": "10",
+  "endTime": "11:00 AM",
+  "createdAt": {
+    "$date": "2024-10-03T06:30:10.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T12:41:08.493Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fe39f93b481726a10aa75d"
+  },
+  "classDate": "2024-10-07",
+  "startTime": "10:00 AM",
+  "trainerId": {
+    "$oid": "66fd422a42dda2db46f8c7be"
+  },
+  "trainees": [],
+  "maxTrainees": "10",
+  "endTime": "12:00 PM",
+  "createdAt": {
+    "$date": "2024-10-03T06:30:17.639Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-03T06:31:14.259Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ff72236b2e7aba5b5d32ff"
+  },
+  "classDate": "2024-10-06",
+  "startTime": "12:00 PM",
+  "trainerId": {
+    "$oid": "66ff4f6c96430da75c0949b4"
+  },
+  "trainees": [],
+  "maxTrainees": "10",
+  "endTime": "02:00 PM",
+  "createdAt": {
+    "$date": "2024-10-04T04:42:11.128Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T12:32:05.820Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ff73346b2e7aba5b5d3313"
+  },
+  "classDate": "2024-10-08",
+  "startTime": "01:00 PM",
+  "trainerId": {
+    "$oid": "66ff64303281e4bca2a0e6af"
+  },
+  "trainees": [],
+  "maxTrainees": "10",
+  "endTime": "03:00 PM",
+  "createdAt": {
+    "$date": "2024-10-04T04:46:44.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T17:06:29.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ff737e6b2e7aba5b5d332b"
+  },
+  "classDate": "2024-10-08",
+  "startTime": "02:00 PM",
+  "trainerId": {
+    "$oid": "66fd422a42dda2db46f8c7be"
+  },
+  "trainees": [],
+  "maxTrainees": "10",
+  "endTime": "04:00 PM",
+  "createdAt": {
+    "$date": "2024-10-04T04:47:58.974Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T04:47:58.974Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fffc57ae87aeb705f8e4c0"
+  },
+  "classDate": "2024-10-07",
+  "startTime": "10:00 AM",
+  "trainerId": {
+    "$oid": "66fd422a42dda2db46f8c7be"
+  },
+  "trainees": [],
+  "maxTrainees": "10",
+  "endTime": "12:00 PM",
+  "createdAt": {
+    "$date": "2024-10-04T14:31:51.566Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T14:31:51.566Z"
+  }
+}]

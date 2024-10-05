@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "66fcec3e112ddc2931313b07"
+  },
+  "userId": {
+    "$oid": "66fcec3e112ddc2931313b04"
+  },
+  "adminLevel": "Super Admin",
+  "createdAt": {
+    "$date": "2024-10-02T06:46:22.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-02T06:46:22.490Z"
+  }
+}]

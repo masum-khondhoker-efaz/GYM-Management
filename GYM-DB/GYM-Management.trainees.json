@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "66fd2b0256f30fc67b53380a"
+  },
+  "userId": {
+    "$oid": "66fd2b0256f30fc67b533808"
+  },
+  "age": "24",
+  "phone": "01840555557",
+  "createdAt": {
+    "$date": "2024-10-02T11:14:10.365Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T17:06:29.687Z"
+  },
+  "scheduledClass": [
+    {
+      "$oid": "66fe39bd3b481726a10aa753"
+    },
+    {
+      "$oid": "66fe39f23b481726a10aa758"
+    }
+  ],
+  "weight": "55"
+},
+{
+  "_id": {
+    "$oid": "66fe609346ae7a0f54d66d5d"
+  },
+  "userId": {
+    "$oid": "66fe609346ae7a0f54d66d5b"
+  },
+  "age": "",
+  "phone": "",
+  "scheduledClass": [],
+  "createdAt": {
+    "$date": "2024-10-03T09:14:59.477Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-03T09:14:59.477Z"
+  },
+  "weight": ""
+},
+{
+  "_id": {
+    "$oid": "66ff49db96430da75c0949b0"
+  },
+  "userId": {
+    "$oid": "66ff49db96430da75c0949ae"
+  },
+  "age": "",
+  "phone": "",
+  "scheduledClass": [
+    {
+      "$oid": "66fe39bd3b481726a10aa753"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-04T01:50:19.985Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T17:05:40.653Z"
+  },
+  "weight": ""
+}]
