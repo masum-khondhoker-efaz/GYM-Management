@@ -78,7 +78,7 @@ Defines the schedule for classes.
 
 - **Model Name**: `class-schedules`
 - **Fields**:
-   - `classDate`: Date, required
+   - `classDate`: String, required
    - `startTime`: String, required
    - `endTime`: String, required
    - `maxTrainees`: String, required
